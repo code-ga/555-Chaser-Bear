@@ -5,4 +5,4 @@ By following the blueprint guide to create the LED Chaser, I can create the Merr
 Here is the result: 
 
 
-<img width="513" height="690" alt="Screenshot 2025-11-09 174157" src="https://github.com/user-attachments/assets/db49d924-4289-42e6-b791-23b66d1aa7c2" />
+<img width="719" height="662" alt="Screenshot 2025-12-01 230636" src="https://github.com/user-attachments/assets/263106ca-a6d7-4613-9734-c4d71d9e11db" />
